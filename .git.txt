@@ -1,8 +1,19 @@
-hi how are you?
-i am fine.
-hmm ok
-done ..........
-legand
-pro legand
-good afternoon
-enna pandra
+ <hd>hi how are you?
+       i am fine.
+        hmm ok
+         done ..........
+          legand pro legand good afternoon enna pandra
+<hd>
+
+
+<head> GURU </head>
+<title>life of GURU</title>
+<body>
+<p>hahaha
+guru the basketball player
+the moon rises in the south
+does snake get cold????
+goodafternoon dude
+ok i will give commit changes</p>
+</body>
+</head>
